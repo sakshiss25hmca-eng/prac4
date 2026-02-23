@@ -32,7 +32,7 @@
       width: 100%;
       padding: 8px;
       background-color: #4CAF50;
-      color: white;
+      color: green;
       border: none;
       cursor: pointer;
     }
